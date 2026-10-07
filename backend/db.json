@@ -1,0 +1,26 @@
+{
+  "restaurants": [
+    {
+      "id": "restaurant-1",
+      "name": "Demo Restaurant",
+      "isOpen": true
+    }
+  ],
+  "menuItems": [
+    {
+      "id": "item-1",
+      "restaurantId": "restaurant-1",
+      "name": "Chicken Burger",
+      "price": 12.5,
+      "available": true
+    },
+    {
+      "id": "item-2",
+      "restaurantId": "restaurant-1",
+      "name": "French Fries",
+      "price": 4.5,
+      "available": true
+    }
+  ],
+  "orders": []
+}
